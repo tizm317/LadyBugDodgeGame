@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Food
+  - Element
+  - Attacking_Bullet
+  - Enemy
+  - HitEffect
+  - FxTemporaire
+  - explosion
+  - Map
+  - Potion
+  - Magnet
+  - TowerPos
+  - Enemy_Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Player Damaged
+  - Map
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 1703909157
+    locked: 0
+  - name: Player
+    uniqueID: 858925293
+    locked: 0
+  - name: Enemies
+    uniqueID: 1189052831
+    locked: 0
+  - name: Food
+    uniqueID: 321001731
+    locked: 0
+  - name: Bullets
+    uniqueID: 2816785371
+    locked: 0
+  - name: Effects
+    uniqueID: 3134975685
+    locked: 0
+  - name: UI
+    uniqueID: 2695036011
+    locked: 0
+  - name: 1
+    uniqueID: 2717227127
+    locked: 0
